@@ -1,11 +1,61 @@
 {
-  "posts": [
+  "processos": [
     {
       "id": 1,
-      "title": "hello"
+      "numero": "0000420-88.2008.8.20.0005",
+      "data": "24/03/2008",
+      "classe": "PROCEDIMENTO DO JUIZADO ESPECIAL CÍVEL",
+      "assunto": "DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO - Servidor Público Civil",
+      "orgao": "12º Juizado Especial Cível da Comarca de Natal",
+      "poloativo": [
+        {
+          "id": 1,
+          "nome": "José das Tapiocas Araújo",
+          "code": 98765432100
+          "tipo": "Autor",
+          "situacao": true
+        },
+        {
+          "id": 2,
+          "nome": "Maria Manuela Medeiros",
+          "code": 12345678900
+          "tipo": "Advogado",
+          "situacao": true
+        }
+      ],
+      "polopassivo": [
+        {
+          "id": 3,
+          "nome": "Tapiocaria Dois Irmãos",
+          "code": 11111111111111
+          "tipo": "Réu",
+          "situacao": true
+        },
+        {
+          "id": 4,
+          "nome": "Maiqui Táisom",
+          "code": 22222222222
+          "tipo": "Advogado",
+          "situacao": true
+        }
+      ],
+      "movimentacao": [
+        {
+          "id": 1,
+          "data": "24/02/2018 15:15:02",
+          "mov": 99,
+          "descricao": "Arquivamento: Processo Arquivado (EXTINÇÃO ART. 794 CPC)",
+          "doc": null
+        }
+      ],
+      "documentos" : [
+        {
+          "id": 1,
+          "data": "05/06/2008 18:24:13",
+          "descricao": "Despacho",
+          "link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        }
+      ]
     }
-  ],
-  "profile": {
-    "name": "pipimi"
-  }
+  ]
 }
