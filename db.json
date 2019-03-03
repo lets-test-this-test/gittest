@@ -11,7 +11,7 @@
         {
           "id": 1,
           "nome": "José das Tapiocas Araújo",
-          "code": "98765432100",
+          "code": 98765432100,
           "tipo": "Autor",
           "situacao": true
         },
