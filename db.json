@@ -11,14 +11,14 @@
         {
           "id": 1,
           "nome": "José das Tapiocas Araújo",
-          "code": 98765432100,
+          "code": "98765432100",
           "tipo": "Autor",
           "situacao": true
         },
         {
           "id": 2,
           "nome": "Maria Manuela Medeiros",
-          "code": 12345678900,
+          "code": "12345678900",
           "tipo": "Advogado",
           "situacao": true
         }
@@ -27,14 +27,14 @@
         {
           "id": 3,
           "nome": "Tapiocaria Dois Irmãos",
-          "code": 11111111111111,
+          "code": "11111111111111",
           "tipo": "Réu",
           "situacao": true
         },
         {
           "id": 4,
           "nome": "Maiqui Táisom",
-          "code": 22222222222,
+          "code": "22222222222",
           "tipo": "Advogado",
           "situacao": true
         }
@@ -68,14 +68,14 @@
         {
           "id": 1,
           "nome": "Popuko Pokiten",
-          "code": 05724935877
+          "code": "05724935877",
           "tipo": "Autor",
           "situacao": true
         },
         {
           "id": 2,
           "nome": "Pipimi Pokiten",
-          "code": 58796124855,
+          "code": "58796124855",
           "tipo": "Advogado",
           "situacao": true
         }
@@ -84,14 +84,14 @@
         {
           "id": 3,
           "nome": "King's Comics",
-          "code": 33333333333333,
+          "code": "33333333333333",
           "tipo": "Réu",
           "situacao": true
         },
         {
           "id": 4,
           "nome": "Evil Dude",
-          "code": 66666666666,
+          "code": "66666666666",
           "tipo": "Advogado",
           "situacao": true
         }
